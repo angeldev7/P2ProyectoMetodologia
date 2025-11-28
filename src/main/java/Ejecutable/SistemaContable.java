@@ -8,7 +8,7 @@ import Modelo.TipoRol;
 
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
-
+//zzzzzz
 /**
  * Clase principal ejecutable del Sistema Contable
  * Comercial el mejor vendedor S.A.
